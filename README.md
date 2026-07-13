@@ -93,12 +93,13 @@ Currently focused on designing end-to-end data pipelines using cloud technologie
 
 ---
 
-# Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanarender18&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanarender18&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
 
 ---
