@@ -1,6 +1,6 @@
 <div align="center">
 
-# Challa Raja Narender Reddy
+# CHALLA RAJA NARENDER REDDY
 
 ### Data Engineering • Backend Development • Cloud Computing
 
