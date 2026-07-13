@@ -99,14 +99,13 @@ Docker                ███████████░░░░░░░░�
 
 # Featured Projects
 
-| Project | Technology |
-|----------|------------|
-| TechSpire | MERN Stack |
-| Hospital Management System | Django |
-| Tripify | PHP |
-| GadgetPedia | Node.js |
-| Data Engineering Portfolio | Python |
-| Apache Spark ETL Pipeline | Apache Spark |
+| Project | Description | Tech |
+|----------|-------------|------|
+| TechSpire | Engineering Learning Platform | MERN |
+| Hospital Management System | AI Based Appointment Allocation | Django |
+| Tourism Management System | Travel Portal | PHP |
+| GadgetPedia | Electronics Platform | Node.js |
+| Pizza Ordering Platform | Food Ordering System | MERN |
 
 ---
 
